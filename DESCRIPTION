@@ -2,6 +2,7 @@ Package: Selectapref
 Title: Diet selectivity and preference in animal foraging
 Version: 0.0.0.9000
 Authors@R: person("Jason", "Richardson", email = "jcricha3@mail.usf.edu", role = c("aut", "cre"))
+Maintainer: 'Jason Richardson <jcricha3@mail.usf.edu>'
 Description: What the package does (one paragraph).
 Depends: R (>= 3.2.2)
 License: CC0
