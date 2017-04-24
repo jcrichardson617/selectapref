@@ -14,5 +14,11 @@ FR(available, consumed)
 \description{
 Returns forage ratio from vectors of consumed and available food items.
 }
+\examples{
+availableprey <- c(10,10,10,10,10)
+consumedprey <- c(9,0,0,1,5)
+FR(available = availableprey, consumed = consumedprey)
+
+}
 \keyword{forage}
 \keyword{ratio}
